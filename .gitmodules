@@ -1,3 +1,12 @@
 [submodule "oh-my-zsh"]
 	path = oh-my-zsh
 	url = git://github.com/robbyrussell/oh-my-zsh.git
+[submodule "janus/rails"]
+	path = janus/rails
+	url = https://github.com/tpope/vim-rails
+[submodule "janus/ruby"]
+	path = janus/ruby
+	url = https://github.com/vim-ruby/vim-ruby
+[submodule "janus/rake"]
+	path = janus/rake
+	url = https://github.com/tpope/vim-rake.git
