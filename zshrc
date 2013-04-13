@@ -39,3 +39,4 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+alias mvim='rvm system do /usr/local/bin/mvim $@'
